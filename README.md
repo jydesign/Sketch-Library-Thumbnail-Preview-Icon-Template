@@ -4,7 +4,7 @@ Sketch Library Thumbnail Preview Icon Template Freebie
 [**_DOWNLOAD Sketch Library Thumbnail Preview Icon Template v1.0_**](https://github.com/jydesign/Sketch-Library-Preview-Icon-Template/raw/master/sketch-library-thumbnail-preview-icon.sketch)
 
 _Preview of Template & Preferences Panel Library Preview:_
-![sketch-library-thumbnail-preview-icon-v1-0_example](http://sketchhunt.com/wp-content/uploads/2017/10/sketch-library-thumbnail-preview-icon-v1-0_example.png)
+![sketch-library-thumbnail-preview-icon-v1-0_example](http://jydesign.com/wp-content/uploads/2017/10/sketch-library-thumbnail-preview-icon-v1-0_example.png)
 
 ## Instructions
 
